@@ -345,3 +345,7 @@
 .center {
     transform: scale(1.2);
 }
+
+.team_bg_clr {
+    background: rgba(179, 255, 199, 1);
+}
